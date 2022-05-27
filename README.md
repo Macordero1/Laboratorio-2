@@ -83,4 +83,7 @@ Se requiere el análisis analítico del circuito mostrado en la figura 2.1., med
 
 * Al comparar las medidas obtenidas por tinkerkat y el experimetar, se produce un margen de error del 5% en las medidas fisicas, mientras que en la simulacion el margen de error es del 1%
 
+## **Bibliografía**
+Ministerio de Argentina. (15 de Julio de 2020). Obtenido de http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a07-Mallas-y-Nodos.pdf
+
 
