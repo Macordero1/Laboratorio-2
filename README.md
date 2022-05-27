@@ -40,6 +40,8 @@ Se requiere el análisis analítico del circuito mostrado en la figura 2.1., med
 
 ![image](https://user-images.githubusercontent.com/105742149/170625099-89eca918-d22b-4645-a26c-c1b8060e9573.png)
 
+![image](https://user-images.githubusercontent.com/105742149/170638072-96de6203-84e6-4252-a42e-d8b54a3f2044.png)
+
 ## **2.5. Procedimiento**
 **a)** Implementar el circuito que se presenta en la figura 2.1
 
@@ -77,5 +79,8 @@ Se requiere el análisis analítico del circuito mostrado en la figura 2.1., med
 
 ## **2.5.3. Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
 
-
 ## **2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
+
+* Al comparar las medidas obtenidas por tinkerkat y el experimetar, se produce un margen de error del 5% en las medidas fisicas, mientras que en la simulacion el margen de error es del 1%
+
+
