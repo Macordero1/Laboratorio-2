@@ -48,8 +48,33 @@ Se requiere el análisis analítico del circuito mostrado en la figura 2.1., med
 ![image](https://user-images.githubusercontent.com/105742149/170624216-cc0cdfb9-5d98-4ff4-93c2-5b743676b59e.png)
 
 *Figura de referencia 2.1*
+## **2.5.1. Desarrollo Analítico**
 
-## **2.5.1. Arme el circuito que se muestra en la figura**
+![image](https://user-images.githubusercontent.com/105742149/171084322-a0f46502-9e1e-4027-ab59-88ed96fff53c.png)
+
+*Asignamos el sentido a la corriente*
+
+![image](https://user-images.githubusercontent.com/105742149/171084376-52a52a98-21e3-4f27-bb1d-f30579f8b611.png)
+
+*Encontramos la primera ecuación*
+
+![image](https://user-images.githubusercontent.com/105742149/171084438-11ae77be-08af-416d-a8f6-8020cbc9d7fc.png)
+
+*Encontramos la segunda ecuación*
+
+![image](https://user-images.githubusercontent.com/105742149/171084559-0bda01dc-dcc2-45e5-8a45-6bf17efd3e76.png)
+
+*Encontramos la tercera ecuación*
+
+![image](https://user-images.githubusercontent.com/105742149/171084628-a7d28399-97bb-4df5-a0f8-a7c61cba6d45.png)
+![image](https://user-images.githubusercontent.com/105742149/171084642-b33898aa-a74e-4b85-95a3-51ce8270c55b.png)
+
+*Resolución del sistema de ecuaciones*
+
+![image](https://user-images.githubusercontent.com/105742149/171084723-be909467-5c9a-4aaf-9acf-4d58912c7b1a.png)
+*Resultados*
+
+## **2.5.2. Arme el circuito que se muestra en la figura**
 
 ![pt](https://user-images.githubusercontent.com/105742149/170624533-2277fda5-370b-4136-8837-7860f28fe2be.jpeg)
 
@@ -71,15 +96,17 @@ Se requiere el análisis analítico del circuito mostrado en la figura 2.1., med
 
 *Toma de medidas experimentales malla 3* 
 
-## **2.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.**
+## **2.5.3. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.**
 
 ![image](https://user-images.githubusercontent.com/105742149/170627937-ac9fca7f-6688-4795-8168-76af622dc90e.png)
 
 *Toma de medidas simuladas*
 
-## **2.5.3. Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
+## **2.5.4. Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
 
-## **2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
+![image](https://user-images.githubusercontent.com/105742149/171083243-13fe6445-4e2a-4c2d-8906-15d15e489d58.png)
+
+## **2.5.5. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
 * Al comparar las medidas obtenidas por tinkerkat y el experimetar, se produce un margen de error del 5% en las medidas fisicas, mientras que en la simulacion el margen de error es del 1%
 
