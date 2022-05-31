@@ -48,7 +48,29 @@ Se requiere el análisis analítico del circuito mostrado en la figura 2.1., med
 ![image](https://user-images.githubusercontent.com/105742149/170624216-cc0cdfb9-5d98-4ff4-93c2-5b743676b59e.png)
 
 *Figura de referencia 2.1*
-## **2.5.1. Desarrollo Analítico**
+### **2.5.1. Arme el circuito que se muestra en la figura**
+
+![pt](https://user-images.githubusercontent.com/105742149/170624533-2277fda5-370b-4136-8837-7860f28fe2be.jpeg)
+
+*Circuito Armado*
+
+![image](https://user-images.githubusercontent.com/105742149/170626623-46c1d457-4637-4c9e-8173-ef29eb51d20e.png)
+
+*Circuito Simulado*
+
+![image](https://user-images.githubusercontent.com/105742149/170634968-82ab3260-c31e-4ce0-880d-d53164edde43.png)
+
+*Toma de medidas experimentales malla 1*
+
+![image](https://user-images.githubusercontent.com/105742149/170635266-5bf0c9f0-0a66-43c6-81db-4a81a19ff9d8.png)
+
+*Toma de medidas experimentales malla 2*
+
+![image](https://user-images.githubusercontent.com/105742149/170635752-6192ac6a-57ac-4cfc-8aaa-4cfdc20e1a9a.png)
+
+*Toma de medidas experimentales malla 3* 
+
+## **2.5.2. Desarrollo Analítico**
 
 ![image](https://user-images.githubusercontent.com/105742149/171084322-a0f46502-9e1e-4027-ab59-88ed96fff53c.png)
 
@@ -74,28 +96,6 @@ Se requiere el análisis analítico del circuito mostrado en la figura 2.1., med
 ![image](https://user-images.githubusercontent.com/105742149/171084723-be909467-5c9a-4aaf-9acf-4d58912c7b1a.png)
 
 *Resultados*
-
-## **2.5.2. Arme el circuito que se muestra en la figura**
-
-![pt](https://user-images.githubusercontent.com/105742149/170624533-2277fda5-370b-4136-8837-7860f28fe2be.jpeg)
-
-*Circuito Armado*
-
-![image](https://user-images.githubusercontent.com/105742149/170626623-46c1d457-4637-4c9e-8173-ef29eb51d20e.png)
-
-*Circuito Simulado*
-
-![image](https://user-images.githubusercontent.com/105742149/170634968-82ab3260-c31e-4ce0-880d-d53164edde43.png)
-
-*Toma de medidas experimentales malla 1*
-
-![image](https://user-images.githubusercontent.com/105742149/170635266-5bf0c9f0-0a66-43c6-81db-4a81a19ff9d8.png)
-
-*Toma de medidas experimentales malla 2*
-
-![image](https://user-images.githubusercontent.com/105742149/170635752-6192ac6a-57ac-4cfc-8aaa-4cfdc20e1a9a.png)
-
-*Toma de medidas experimentales malla 3* 
 
 ## **2.5.3. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.**
 
