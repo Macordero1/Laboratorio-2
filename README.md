@@ -72,6 +72,7 @@ Se requiere el análisis analítico del circuito mostrado en la figura 2.1., med
 *Resolución del sistema de ecuaciones*
 
 ![image](https://user-images.githubusercontent.com/105742149/171084723-be909467-5c9a-4aaf-9acf-4d58912c7b1a.png)
+
 *Resultados*
 
 ## **2.5.2. Arme el circuito que se muestra en la figura**
