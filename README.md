@@ -76,11 +76,7 @@ Se requiere el análisis analítico del circuito mostrado en la figura 2.1., med
 
 *Toma de medidas experimentales malla 3* 
 
-## **2.5.3. Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
-
-![image](https://user-images.githubusercontent.com/105742149/171083243-13fe6445-4e2a-4c2d-8906-15d15e489d58.png)
-
-## **2.5.4. Desarrollo Analítico**
+## **2.5.3. Desarrollo Analítico**
 
 ![image](https://user-images.githubusercontent.com/105742149/171084322-a0f46502-9e1e-4027-ab59-88ed96fff53c.png)
 
@@ -106,11 +102,14 @@ Se requiere el análisis analítico del circuito mostrado en la figura 2.1., med
 ![image](https://user-images.githubusercontent.com/105742149/171084723-be909467-5c9a-4aaf-9acf-4d58912c7b1a.png)
 
 *Resultados*
+
+## **2.5.4. Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
+
+![image](https://user-images.githubusercontent.com/105742149/171083243-13fe6445-4e2a-4c2d-8906-15d15e489d58.png)
+
 ## **2.5.5. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
 * Al comparar las medidas obtenidas por tinkerkat y el experimetar, se produce un margen de error del 5% en las medidas fisicas, mientras que en la simulacion el margen de error es del 1%
 
 ## **Bibliografía**
 Ministerio de Argentina. (15 de Julio de 2020). Obtenido de http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a07-Mallas-y-Nodos.pdf
-
-
